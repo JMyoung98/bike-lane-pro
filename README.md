@@ -57,11 +57,12 @@
 **A graph is also presented to check the final dataset, which shows that the lines for each class overlap closely as they are trained and at the right ratio. From this, we can see that we have created a good final dataset by setting the appropriate data group ratio, marking the objects clearly when selecting data, and uploading the missing data by taking pictures by hand. In particular, it is important to note that after validating the final dataset, you can check how well the test group photos recognize the objects. This allows us to evaluate the accuracy of our weighting model and look for ways to improve it. This article highlights the use of various techniques for object detection and the resulting weighting model with high accuracy. It is also mentioned that efforts were made to set the data group ratio and select the data, which shows that proper data preprocessing and training can lead to high accuracy object detection.**
 
 ## Apply model learning
-
-![](https://drive.google.com/uc?export=download&id=1kcaYCdDNg-t_0fWBqCERtWLvA0OTcFnD) |![](https://drive.google.com/uc?export=download&id=1iGxM23m0WZXyaILM5UYQCkNWC6KlGd5o)
---- | --- | 
-![](https://drive.google.com/uc?export=download&id=1hxkCE5Md3Uaqo4jf6gaHEJmkfMW6vwAE) |![](https://drive.google.com/uc?export=download&id=1JFlTobJZsiH0Au-Tu6TIEL7oVy6f9dpJ)
-
+<p align="center">
+  <img src="https://drive.google.com/uc?export=download&id=1kcaYCdDNg-t_0fWBqCERtWLvA0OTcFnD" width="200" /> | <img src="https://drive.google.com/uc?export=download&id=1iGxM23m0WZXyaILM5UYQCkNWC6KlGd5o" width="200" />
+</p>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=download&id=1hxkCE5Md3Uaqo4jf6gaHEJmkfMW6vwAE" width="200" /> | <img src="https://drive.google.com/uc?export=download&id=1JFlTobJZsiH0Au-Tu6TIEL7oVy6f9dpJ" width="200" />
+</p>
 
 ## Reflections and future directions
 
