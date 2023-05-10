@@ -72,4 +72,3 @@
 **
 
 # <div align="center"> Thank you </div>
-<div align="right"> by Jimyoung98</div>
